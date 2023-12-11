@@ -1,0 +1,11 @@
+body{
+  overflow: hidden;
+}
+.sticky{
+  position: sticky;
+  top: 0;
+}
+.middle-column {
+  height: 100vh;
+  overflow-y: auto; /* Enable vertical scrolling */
+}

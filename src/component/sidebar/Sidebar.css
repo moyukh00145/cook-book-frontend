@@ -1,0 +1,10 @@
+.left-sidebar-container{
+  background-color: blueviolet;
+  height: 10rem;
+}
+.right-sidebar-container{
+  box-shadow: 0 10px 20px rgba(72, 78, 85, 0.6);
+  margin-top: 2rem;
+  border-radius: 15px;
+  height: 15rem;
+}

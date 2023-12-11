@@ -1,0 +1,17 @@
+html{
+  --secondary-color:#FF9F1C;
+  --text-color:rgb(69, 69, 69);
+}
+.logo-span{
+  color: var(--secondary-color)
+}
+.logo-heading:hover{
+  color: var(--text-color)
+}
+.nav-items{
+  margin-left: 1.5rem;
+  margin-right: 1rem;
+  color: white;
+  display: block;
+  text-decoration: none
+}

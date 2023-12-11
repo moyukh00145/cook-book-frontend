@@ -1,0 +1,14 @@
+.followers-card{
+  box-shadow: 0 10px 20px rgba(72, 78, 85, 0.6);
+  border-radius: 20px;
+}
+
+.follower-img{
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+}
+.user-list{
+  list-style: none;
+  padding-left: 0px;
+}
